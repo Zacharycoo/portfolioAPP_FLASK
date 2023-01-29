@@ -1,0 +1,25 @@
+body {
+    background-color: #E2E2E2;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: Shanti;
+    font-size: 2em;
+    margin: 20px;
+
+}
+
+#img1 {
+    margin: 60px 0 30px 0;
+    width: 350px;
+
+}
+
+#img2 {
+    width: 50px;
+    float: left;
+    margin-left: 400px;
+    margin-right: 50px;
+}
